@@ -554,6 +554,15 @@ form .item #photos-preview img {
     max-width: 60%;
 }
 
+/* Email Validation Errors */
+.input .error {
+    background-color: #e74c3c;
+    color: white;
+    padding: 4px;
+    border-radius: 4px;
+    max-width: 60%;
+}
+
 
 
 
